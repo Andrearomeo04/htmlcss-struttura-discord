@@ -46,3 +46,61 @@ header {
 #login {
     text-align: right;
 }
+
+/* main */
+.container-sm {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.container-lg {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.col-100 {
+    width: 100%;
+    border: 1px dashed black;
+    height: 300px;
+}
+
+.col-60-main {
+    width: 60%;
+    height: 300px;
+}
+
+.col-40-main {
+    width: 40%;
+    height: 300px;
+}
+
+/* styling class */
+.bg-blue {
+    background-color: blue;
+    padding: 20px;
+}
+
+.bg-light-grey {
+    background-color: rgba(177, 177, 177, 0.527);
+    padding: 20px;
+}
+
+.col-roset {
+    background-color: rgb(255, 117, 237);
+}
+
+.col-blue{
+    background-color: rgb(0, 132, 255);
+}
+
+.col-pink {
+    background-color: pink;
+}
+
+.my-col {
+    margin: 20px 0px;
+}
+
+.border-dash{
+    border: 1px dashed black;
+}
